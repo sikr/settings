@@ -1,0 +1,7 @@
+{
+    "window.zoomLevel": 1,
+    "emmet.includeLanguages": {
+        "vue-html": "html",
+        "vue": "html"
+    }
+}
